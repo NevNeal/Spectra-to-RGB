@@ -3,12 +3,24 @@
 - Specimens were kept at 40* F for 48 hours before collecting spectra
 
 ### Species:
-#### *Lantana strigocamara* (Common Lantana) - Verbenaceae
-#### *Fallugia paradoxa* (Apache plume) - Rosaceae
-#### *Encelia farinosa* (Brittlebush) - Asteraceae
-#### *Tecoma stans* (Yellow-bells) - Bignoniaceae
-#### *Anisacanthus thurberi* (Thurber's desert honeysuckle) - Acanthaceae
-#### *Cordia boissieri* (Mexican-olive) - Boraginaceae
+#### [*Lantana strigocamara* (Common Lantana) - Verbenaceae](https://github.com/NevNeal/Spectra-to-RGB/blob/main/flower_jpgs/sp1_p1_1.jpg)
+![Lantana strigocamara](https://raw.githubusercontent.com/NevNeal/Spectra-to-RGB/main/flower_jpgs/sp1_p1_1.jpg)
+
+#### [*Fallugia paradoxa* (Apache plume) - Rosaceae](https://github.com/NevNeal/Spectra-to-RGB/blob/main/flower_jpgs/sp2_p3_1.jpg)
+![Fallugia paradoxa](https://raw.githubusercontent.com/NevNeal/Spectra-to-RGB/main/flower_jpgs/sp2_p3_1.jpg)
+
+#### [*Encelia farinosa* (Brittlebush) - Asteraceae](https://github.com/NevNeal/Spectra-to-RGB/blob/main/flower_jpgs/sp3_p1_1.jpg)
+![Encelia farinosa](https://raw.githubusercontent.com/NevNeal/Spectra-to-RGB/main/flower_jpgs/sp3_p1_1.jpg)
+
+#### [*Tecoma stans* (Yellow-bells) - Bignoniaceae](https://github.com/NevNeal/Spectra-to-RGB/blob/main/flower_jpgs/sp4_p1_4.jpg)
+![Tecoma stans](https://raw.githubusercontent.com/NevNeal/Spectra-to-RGB/main/flower_jpgs/sp4_p1_4.jpg)
+
+#### [*Anisacanthus thurberi* (Thurber's desert honeysuckle) - Acanthaceae](https://github.com/NevNeal/Spectra-to-RGB/blob/main/flower_jpgs/sp5_p1_5.jpg)
+![Anisacanthus thurberi](https://raw.githubusercontent.com/NevNeal/Spectra-to-RGB/main/flower_jpgs/sp5_p1_5.jpg)
+
+#### [*Cordia boissieri* (Mexican-olive) - Boraginaceae](https://github.com/NevNeal/Spectra-to-RGB/blob/main/flower_jpgs/sp6_p1_2.jpg)
+![Cordia boissieri](https://raw.githubusercontent.com/NevNeal/Spectra-to-RGB/main/flower_jpgs/sp6_p1_2.jpg)
+
 
 ##### How are species identified?
 - Plants are identified to the species level using PlantNet (identify.plantnet.org)
